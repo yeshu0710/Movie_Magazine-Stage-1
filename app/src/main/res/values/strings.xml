@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Magazine</string>
+    <string name="sort_by_popularity">Sort by Popularity</string>
+    <string name="sort_by_rating">Sort by Rating</string>
+    <string name="release_date">Release Date :</string>
+    <string name="rating">Rating :</string>
+    <string name="overview">Overview :</string>
+    <string name="adult_18">18+</string>
+    <string name="under_age">U/A</string>
+    <string name="ok">Ok</string>
+    <string name="no_internet">No Internet Connectivity</string>
+</resources>
